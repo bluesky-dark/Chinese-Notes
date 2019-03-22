@@ -1,5 +1,5 @@
 # 编辑前先阅读
-**[markdown语法](https://github.com/bluesky-dark/Chinese-Notes/blob/master/Markdown.md)**
+**[markdown语法](https://github.com/bluesky-dark/Chinese-Notes/blob/master/Markdown.md)**  
 **换行前先在行末加两个空格**
 
 # 文常
